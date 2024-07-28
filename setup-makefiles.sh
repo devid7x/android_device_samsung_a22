@@ -8,8 +8,8 @@
 
 set -e
 
-export DEVICE=lancelot
+export DEVICE=a22
 export DEVICE_COMMON=mt6768-common
-export VENDOR=xiaomi
+export VENDOR=samsung
 
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"
