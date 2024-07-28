@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lancelot.mk
+    $(LOCAL_DIR)/lineage_a22.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lancelot-user \
-    lineage_lancelot-userdebug \
-    lineage_lancelot-eng
+    lineage_a22-user \
+    lineage_a22-userdebug \
+    lineage_a22-eng
