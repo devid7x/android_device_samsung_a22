@@ -1,4 +1,4 @@
-# Device tree for Redmi 9
+# Device tree for Samsung Galaxy A22
 
 ```
 #
@@ -8,7 +8,7 @@
 #
 ```
 
-The Xiaomi Redmi 9 (codenamed _"lancelot"_) is an entry-level smartphone from Xiaomi announced in June 2020.
+The Samsung Galaxy A22 (codenamed _"a22"_) is an entry-level smartphone from Samsung announced in June 2021.
 
 ## Device Specifications
 
@@ -17,20 +17,20 @@ The Xiaomi Redmi 9 (codenamed _"lancelot"_) is an entry-level smartphone from Xi
 | SoC                     | MediaTek Helio G80 (12nm)                                   |
 | CPU                     | 2 x 2.0 GHz Cortex-A75 & 6 x 1.8 GHz Cortex-A55             |
 | GPU                     | Mali-G52 MC2                                                |
-| Memory                  | 3GB / 4GB / 6GB                                             |
-| Shipped Android version | 10                                                          |
-| Storage                 | 32GB / 64GB / 128GB                                         |
-| MicroSD                 | Up to 256 GB                                                |
-| Battery                 | Non-removable Li-Po 5020 mAh                                |
-| Dimensions              | 162.3 x 77.2 x 8.9 mm                                       |
-| Display                 | 2340 x 1080 (19:5:9), 6.53 inch                             |
-| Rear Camera 1           | 13 MP, f/2.2, 28mm (wide), 1/3.1", 1.12µm, PDAF             |
-| Rear Camera 2           | 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm               |
+| Memory                  | 4GB / 6GB                                             |
+| Shipped Android version | 11                                                         |
+| Storage                 | 64GB / 128GB                                         |
+| MicroSD                 | Up to 512 GB                                                |
+| Battery                 | Non-removable Li-Po 5000 mAh                                |
+| Dimensions              | 159.3 x 73.6 x 8.4 mm                                       |
+| Display                 | 1600 x 720 (20:9), 6.4 inch                             |
+| Rear Camera 1           | 13 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF, OIS             |
+| Rear Camera 2           | 8 MP, f/2.2, 123˚ (ultrawide), 1/4.0", 1.12µm               |
 | Rear Camera 3           | 2 MP, f/2.4, (macro)                                        |
 | Rear Camera 4           | 2 MP, f/2.4, (depth)                                        |
-| Front Camera            | 8 MP, f/2.0, 27mm (wide), 1/4.0", 1.12µm                    |
+| Front Camera            | 13 MP, f/2.0, (wide), 1/3.1", 1.12µm                    |
 
 
 ## Device Picture
 
-![Xiaomi Redmi 9](https://i01.appmifile.com/webfile/globalimg/zhouyuxin/J19-Green-800!800x800!85.png)
+![Samsung Galaxy A22](https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a22.jpg)
