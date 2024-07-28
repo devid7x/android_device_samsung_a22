@@ -10,7 +10,7 @@ DEVICE_PATH := device/samsung/a22
 -include device/xiaomi/mt6768-common/BoardConfigCommon.mk
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := lancelot,galahad,shiva
+TARGET_OTA_ASSERT_DEVICE := a22, a22nsxx
 
 # Display
 TARGET_SCREEN_DENSITY := 440
