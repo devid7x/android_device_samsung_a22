@@ -24,7 +24,7 @@ The Samsung Galaxy A22 (codenamed _"a22"_) is an entry-level smartphone from Sam
 | Battery                 | Non-removable Li-Po 5000 mAh                                |
 | Dimensions              | 159.3 x 73.6 x 8.4 mm                                       |
 | Display                 | 1600 x 720 (20:9), 6.4 inch                             |
-| Rear Camera 1           | 13 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF, OIS             |
+| Rear Camera 1           | 48 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF, OIS             |
 | Rear Camera 2           | 8 MP, f/2.2, 123˚ (ultrawide), 1/4.0", 1.12µm               |
 | Rear Camera 3           | 2 MP, f/2.4, (macro)                                        |
 | Rear Camera 4           | 2 MP, f/2.4, (depth)                                        |
