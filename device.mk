@@ -71,7 +71,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Shipping API Level
-PRODUCT_SHIPPING_API_LEVEL := 29
+PRODUCT_SHIPPING_API_LEVEL := 30
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/lancelot/lancelot-vendor.mk)
+$(call inherit-product, vendor/samsung/a22/samsung-a22.mk)
